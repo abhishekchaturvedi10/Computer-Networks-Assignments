@@ -1,1 +1,1 @@
-# Computer-Networks-Assignments
+Assignments done in CSE232 during monsoon 2022.
